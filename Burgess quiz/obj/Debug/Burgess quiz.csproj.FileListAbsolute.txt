@@ -1,0 +1,10 @@
+c:\users\dines\documents\visual studio 2013\Projects\Burgess quiz\Burgess quiz\bin\Debug\Burgess quiz.exe.config
+c:\users\dines\documents\visual studio 2013\Projects\Burgess quiz\Burgess quiz\bin\Debug\Burgess quiz.exe
+c:\users\dines\documents\visual studio 2013\Projects\Burgess quiz\Burgess quiz\bin\Debug\Burgess quiz.pdb
+c:\users\dines\documents\visual studio 2013\Projects\Burgess quiz\Burgess quiz\bin\Debug\EntityFramework.dll
+c:\users\dines\documents\visual studio 2013\Projects\Burgess quiz\Burgess quiz\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\dines\documents\visual studio 2013\Projects\Burgess quiz\Burgess quiz\bin\Debug\EntityFramework.xml
+c:\users\dines\documents\visual studio 2013\Projects\Burgess quiz\Burgess quiz\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\dines\documents\visual studio 2013\Projects\Burgess quiz\Burgess quiz\obj\Debug\Burgess quiz.csprojResolveAssemblyReference.cache
+c:\users\dines\documents\visual studio 2013\Projects\Burgess quiz\Burgess quiz\obj\Debug\Burgess quiz.exe
+c:\users\dines\documents\visual studio 2013\Projects\Burgess quiz\Burgess quiz\obj\Debug\Burgess quiz.pdb
